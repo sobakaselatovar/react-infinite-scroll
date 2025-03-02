@@ -2,6 +2,8 @@
 
 Yotube:
   https://www.youtube.com/watch?v=8xAtAIPyUFE
+  https://youtu.be/SToIrImHm4Y?si=WWxt9wweO53RL4Am
+  HolyJs
 
 Habr:
   https://habr.com/ru/articles/339192/
