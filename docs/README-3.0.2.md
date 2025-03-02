@@ -19,5 +19,8 @@ Go интересное:
 
 https://dev.to/jennypollard/chto-takoie-react-fiber-react-fiber-architecture-2cho
 https://www.iamtk.co/optimizing-inp-for-a-react-app-and-performance-learnings
+https://github.com/open-policy-agent/opa
 
 31.03 - System Design: пережить интервью Автор(ы): Тань Ч.
+
+
